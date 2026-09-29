@@ -1,0 +1,10 @@
+body {
+			background-image:url("coffe.jpg");
+			background-size: cover; 
+			background-repeat: no-repeat;
+			background-position: center;
+			
+			}
+			.x{
+				color:gray;
+			}
